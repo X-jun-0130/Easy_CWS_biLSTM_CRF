@@ -1,0 +1,5 @@
+model_checkpoint_path: "best_validation-6256"
+all_model_checkpoint_paths: "best_validation-1564"
+all_model_checkpoint_paths: "best_validation-3128"
+all_model_checkpoint_paths: "best_validation-4692"
+all_model_checkpoint_paths: "best_validation-6256"
